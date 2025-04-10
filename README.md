@@ -21,7 +21,7 @@ Ouput data testing
 
 Saving model, vectorizer, stop words
 
-file name as follows ;
+#file name as follows ;
                sample_data_The_stopwords (1).pkl
               
                sample_data_datareview_model.pkl
@@ -31,8 +31,8 @@ file name as follows ;
                sentimentanalysis.pkl
 
 
-                                                            Building the web application
-    For deployment purposes http://127.0.0.1:5002                                                      
+                                                           # Building the web application
+  For deployment purposes http://127.0.0.1:5002                                                      
   
   run main.py [used pycharm for creating the web app]
   
