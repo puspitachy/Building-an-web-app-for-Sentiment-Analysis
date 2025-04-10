@@ -58,6 +58,8 @@ file name as follows ;
 of sentiment from the text and file which has been inputted by user.
 
 User can either put sentiment by a sentence or also can upload .csv file for getting total percentage of sentiment.
+#For testing the app   .CSV file you can use book1.csv and reviewbook.csv . This file  must be in .CSV format. The web application is case sensitive. Therefore, in the csv file the review column name (which contains feedback of consumers) needs to be replaced by ‘Review’.
+
 Home page
 ![Image description](https://github.com/puspitachy/image/blob/main/Screenshot%202025-04-10%20153022.png)
 
