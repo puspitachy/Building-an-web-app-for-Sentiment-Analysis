@@ -62,7 +62,7 @@ Home page
 ![Image description](https://github.com/puspitachy/image/blob/main/Screenshot%202025-04-10%20153022.png)
 
   
-![Image description](https://github.com/puspitachy/image/blob/main/Screenshot%202023-04-03%20173000.png)
+
 
 
 ![Image description](https://github.com/puspitachy/image/blob/main/Screenshot%202025-04-10%20153041.png)
