@@ -44,18 +44,8 @@ sentimentanalysis.pkl
 
    helper function has been created. The model and vectorizer loaded previously will be used for categorizing text.
 
-• A class name ReviewForm has been created for validating input text size length minimum of 25 characters.
+•  input text size length minimum of 25 characters.
 
-
-• A function name Classify has been created for calculating probability score for single review.
-
-• A helper function name result has been created to analyse single review from user.
-
-• A helper function name analyze has been created to analyse .CSV format file sentiment and plot has been used for visualizing large amount dataset in a pie chart.
-
-• All the HTML files form.html, ReviewForm.html, and home.html has been created and has been associated with the ”/” home route.
-• A result route has been deployed which will classify the sentiment and will show the result
-of sentiment from the text and file which has been inputted by user.
 
 User can either put sentiment by a sentence or also can upload .csv file for getting total percentage of sentiment.
 #For testing the app   .CSV file you can use book1.csv and reviewbook.csv . This file  must be in .CSV format. The web application is case sensitive. Therefore, in the csv file the review column name (which contains feedback of consumers) needs to be replaced by ‘Review’.
