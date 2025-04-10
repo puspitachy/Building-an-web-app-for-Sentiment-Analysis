@@ -62,3 +62,27 @@ User can either put sentiment by a sentence or also can upload .csv file for get
 
 ![Image description](https://github.com/puspitachy/image/blob/main/Screenshot%202025-04-10%20153041.png)
   
+
+
+![Image description](https://github.com/puspitachy/image/blob/main/Screenshot%202025-04-10%20165324.png)
+
+
+![Image description](https://github.com/puspitachy/image/blob/main/Screenshot%202023-04-03%20171526.png)
+
+
+short review 
+![Image description](https://github.com/puspitachy/image/blob/main/Screenshot%202023-04-03%20172203.png)
+
+Long review sentence as a peragraph 
+![Image description](https://github.com/puspitachy/image/blob/main/Screenshot%202023-04-03%20172049.png)
+
+checking sentiment from a file of reviews.
+
+
+![Image description](https://github.com/puspitachy/image/blob/main/Screenshot%202023-04-03%20171646.png)
+
+![Image description](https://github.com/puspitachy/image/blob/main/Screenshot%202023-04-03%20171719.png)
+
+percentage of positive and negative review in a .CSV file.
+
+![Image description](https://github.com/puspitachy/image/blob/main/Screenshot%202025-04-10%20165343.png)
