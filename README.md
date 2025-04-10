@@ -58,12 +58,16 @@ file name as follows ;
 of sentiment from the text and file which has been inputted by user.
 
 User can either put sentiment by a sentence or also can upload .csv file for getting total percentage of sentiment.
+Home page
 ![Image description](https://github.com/puspitachy/image/blob/main/Screenshot%202025-04-10%20153022.png)
 
-![Image description](https://github.com/puspitachy/image/blob/main/Screenshot%202025-04-10%20153041.png)
   
+![Image description](https://github.com/puspitachy/image/blob/main/Screenshot%202023-04-03%20173000.png)
 
 
+![Image description](https://github.com/puspitachy/image/blob/main/Screenshot%202025-04-10%20153041.png)
+
+                          prediction analysis
 ![Image description](https://github.com/puspitachy/image/blob/main/Screenshot%202025-04-10%20165324.png)
 
 
