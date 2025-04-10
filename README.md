@@ -9,7 +9,7 @@ Run SentimentAnalysisonCR_(2) (3).ipnyb for model deployment.
 
 Logistic regression,SVM Model and Gaussian naive bayes Model used for finding out which model perform best.
 
-Model whuch oerform best has been hypertuned for more good performence.
+Model which perform best has been hypertuned for more good performence.
 
 
 
